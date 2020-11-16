@@ -6,6 +6,7 @@
 
 C++ 프로그래밍 언어를 이용해 제작했으며,
 비트 수를 입력하고 그에 따라 입력받는 minterm과 don't care에 따른 
+
 Prime Implicants와 Essential Prime Implicants를 구하는 프로그램이다.
 
 ------

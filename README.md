@@ -56,6 +56,7 @@ C++ 프로그래밍 언어를 이용해 제작했으며,
 
 6) 출력 화면
 
+![screenshot](https://user-images.githubusercontent.com/28584213/99257128-de32be80-2859-11eb-8aa8-2d6cf48b974d.png)
 
 
 

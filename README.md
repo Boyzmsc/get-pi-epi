@@ -2,17 +2,15 @@
 
 **이 프로젝트는 논리회로설계 강의를 바탕으로 제작되었습니다.**
 
-C++ 프로그래밍 언어를 이용해 제작했으며,
-비트 수를 입력하고 그에 따라 입력받는 minterm과 don't care에 따른 Prime Implicants와 Essential Prime Implicants를 구하는 프로그램입니다.
-
+비트 수를 입력하고 그에 따라 입력하는 minterm과 don't care에 대하여
+Prime Implicants와 Essential Prime Implicants를 구하는 프로그램입니다.
 
 ## 목차
 
 |   내용    |
 | :-------: |
 | 실행 방법 |
-| 소스 코드 |
-
+| 실행 화면 |
 
 
 
@@ -48,6 +46,6 @@ C++ 프로그래밍 언어를 이용해 제작했으며,
 
 * Essential Prime Implicants : EPI를 출력합니다.
 
-#### 6) 출력 화면
+## 실행 화면
 
 ![screenshot](https://user-images.githubusercontent.com/28584213/99257128-de32be80-2859-11eb-8aa8-2d6cf48b974d.png)

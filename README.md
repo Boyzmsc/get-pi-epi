@@ -2,8 +2,7 @@
 
 **이 프로젝트는 논리회로설계 강의를 바탕으로 제작되었습니다.**
 
-비트 수를 입력하고 그에 따라 입력하는 minterm과 don't care에 대하여
-Prime Implicants와 Essential Prime Implicants를 구하는 프로그램입니다.
+입력한 비트 수의 minterm과 don't care에 대하여 Prime Implicants와 Essential Prime Implicants를 구하는 프로그램입니다.
 
 ## 목차
 
@@ -16,21 +15,21 @@ Prime Implicants와 Essential Prime Implicants를 구하는 프로그램입니�
 
 ## 실행 방법
 
-#### 1) 소스 파일을 컴파일 한 뒤 실행합니다.
+### 1. 소스 파일을 컴파일 한 뒤 실행합니다.
 
-#### 2) 비트 수를 입력합니다.
+### 2. 비트 수를 입력합니다.
 
 * 0 이하의 수는 받지 않습니다.
 
-#### 3) minterm을 입력합니다.
+### 3. minterm을 입력합니다.
 
 * -1을 입력 시 입력이 종료되며, 음수나 반복된 수는 받지 않습니다.
 
-#### 4) don't care를 입력합니다.
+### 4. don't care를 입력합니다.
 
 * -1을 입력 시 입력이 종료되며, 음수나 반복된 수는 받지 않습니다. minterm에 포함된 수도 받지 않습니다.
 
-#### 5) 결과가 출력됩니다.
+### 5. 결과가 출력됩니다.
 
 * Minterm : 입력한 minterm을 출력합니다.
 
